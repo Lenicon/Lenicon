@@ -24,8 +24,8 @@
 I'm an aspiring Software Developer / Programmer from the Philippines.
 
 - 🔭 I'm currently working on a series where I make [random web tools](https://trash-toolbox.web.app) and upload about it on [YouTube](https://youtube.com/@LeniconDev)
-- 🏫 Still schooling rn, nothing much going on yet in life.
 - 🤖 Started out making games, then making Discord bots, and now making whatever comes to mind.
+- 🏫 Still going through college; nothing much going on yet in life.
 
 
 
