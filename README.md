@@ -3,13 +3,19 @@
 
   <div id="badges">
   <a href="https://lenicon.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Twitter / X Badge"/>
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Badge"/>
   </a>
   <a href="https://youtube.com/LeniconDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/LeniconDev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@lenicondev100" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  </a>
+  <a href="https://www.instagram.com/len.icon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -23,7 +29,7 @@
 
 I'm an aspiring Software Developer / Programmer from the Philippines.
 
-- 🔭 I'm currently working on a series where I make [random web tools](https://trash-toolbox.web.app) and upload about it on [YouTube](https://youtube.com/@LeniconDev)
+- 🔭 I'm currently working on a series where I make [random web tools](https://trash-toolbox.web.app) and upload about it on [YouTube](https://youtube.com/@LeniconDev), [Tiktok](https://www.tiktok.com/@lenicondev100), and [Instagram](https://www.instagram.com/len.icon/).
 - 🤖 Started out making games, then making Discord bots, and now making whatever comes to mind.
 - 🏫 Still going through college; nothing much going on yet in life.
 
